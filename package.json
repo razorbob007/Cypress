@@ -1,0 +1,17 @@
+{
+  "name": "Tourradar_test",
+  "version": "1.0.0",
+  "description": "Tourradar_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0",
+    "cypress-downloadfile": "^1.2.3"
+  }
+}
